@@ -1,0 +1,11 @@
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe.manifest
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.application
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.TrustInfo.xml
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe.manifest
+C:\Users\Diogo Henrique\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.application
